@@ -1,6 +1,6 @@
 
 # Modular CSS
-This project is created for the purpose of showing the different sections of css. It also uses Sass to automatically compress the css in master.css .
+This project is created for the purpose of showing the different sections of css. It also uses Sass to automatically compress the css in master.css . Now the Ajax functioning is also added. 
 ## Getting started
 These instructions will get you the copy of project and will also guide you about how to develop and test it. See Deployment for notes on how to deploy the project on your Mac/Pc.
 
